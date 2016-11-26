@@ -1,0 +1,14 @@
+/target/
+*.DS_Store
+bin
+target
+.classpath
+.class
+.project
+.settings
+src/main/webapp/META-INF
+.idea
+*.iml
+*.log
+*.ipr
+*.iws
