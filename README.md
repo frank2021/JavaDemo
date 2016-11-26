@@ -1,3 +1,3 @@
 # JavaDemo
 
-This projec is for Java Demo 2
+This projec is for Java Demo 3
