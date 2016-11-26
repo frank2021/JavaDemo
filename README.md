@@ -1,2 +1,3 @@
 # JavaDemo
-¹þ¹þ¹þ
+
+This projec is for Java Demo
