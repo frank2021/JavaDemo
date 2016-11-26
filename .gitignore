@@ -6,7 +6,6 @@ target
 .class
 .project
 .settings
-src/main/webapp/META-INF
 .idea
 *.iml
 *.log
